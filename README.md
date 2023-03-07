@@ -6,15 +6,15 @@
 
 ## Github repo
 
-This is the [link]() to the Github repo of the project(UPDATE)
+This is the [link](https://github.com/h3its/Portfolio) to the Github repo of the project
 
 ## Website
 
-A live demo is already available via this [link]()(UPDATE)
+A live demo is already available via this [link](https://h3its.github.io/Portfolio/)
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Vanilla JavaSCript
+**Client:** HTML, CSS, Vanilla JavaScript
 
 ## Tools Used
 
